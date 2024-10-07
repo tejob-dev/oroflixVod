@@ -1,0 +1,23 @@
+{
+    "name": "mediacity/advertise",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sudhir Chechani",
+            "email": "sudhirchechani@gmail.coom"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Advertise\\": ""
+        }
+    }
+}
